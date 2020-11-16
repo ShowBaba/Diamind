@@ -1,0 +1,58 @@
+body {
+  font-size: 16px;
+  background-color: white;
+  font-family: "Oxygen", sans-serif;
+}
+
+/* HEADER */
+
+.navbar {
+  background-color: #e3f2fd;
+}
+
+
+
+/* SIGN UP FORM */
+.form-check-label {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 20px auto;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.card-container.card {
+  max-width: 350px !important;
+  padding: 40px 40px;
+}
+
+.card {
+  background-color: #f7f7f7;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 20px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Diary Data */
+
+.diary-data {
+  border: 1px solid #2b2468;
+  width: 100%;
+}
+
+.entries {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border-style: outset;
+  border-color: #2b2468;
+  border-width: 2px;
+}
